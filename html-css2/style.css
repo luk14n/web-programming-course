@@ -1,0 +1,52 @@
+body {
+  background-color: #e6e6fa;
+}
+
+header {
+  background-color: #9370db;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  background-color: #f0e8ff;
+  padding: 20px;
+}
+
+article {
+  margin: 20px 0;
+}
+
+footer {
+  background-color: #9370db;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.social-media li {
+  margin-right: 10px;
+}
+
+.social-media a {
+  color: white;
+}
